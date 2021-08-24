@@ -20,3 +20,6 @@ apt-ftparchive \
         -o APT::FTPArchive::Release::Components="main" \
         -o APT::FTPArchive::Release::Description="Sileo for Checkra1n and Unc0ver" \
         release . > Release
+git add .
+git commit -m "add package"
+git push
