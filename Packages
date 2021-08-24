@@ -38,4 +38,5 @@ Depiction: http://getsileo.app
 Section: Tweaks
 Version: 1.0.0
 Installed-Size: 1
-filename: ./debs/pog.ataro.rale
+filename: ./debs/pog.ataro.rale.deb
+
