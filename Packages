@@ -26,3 +26,13 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: pog.ataro.rale
+Name: Rale
+Depends: firmware (>=6.0)
+Architecture: iphoneos-arm
+Description: **this tweak is not released yet, now it will put a file in home**
+Maintainer: Ataro (Jake Roemer) <jroemer551@gmail.com>
+Author: Ataro (Jake Roemer ) <jroemer551@gmail.com>
+Section: Tweaks
+Version: 1.0
+filename: ./debs/pog.ataro.rale
