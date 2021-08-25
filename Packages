@@ -1,37 +1,3 @@
-Package: com.supermamon.newpackage
-Architecture: iphoneos-arm
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
-Filename: ./pool/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-SHA1: 46bbcd314f5bcb29e05e287f08fe50e6547ea401
-SHA256: b01c426f4e262c901fd0a9dce060d89327af05bdbd203ce7527c133c1bc8cafd
-SHA512: 7c68d881ab4e5e114423c404ae1cac65137dcc3d3b25108d1d5c862df9516ed12e3240cb40bf952ba9bf8d9ef1b04e4cc58097710ead23e0fdd781e0692a20c6
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-
-Package: com.supermamon.oldpackage
-Architecture: iphoneos-arm
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Filename: ./pool/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-SHA1: 44f945218a8f72e24ad69191bfee4a89bb7e9bc0
-SHA256: 2d0cf4ea9ddc1d1be3968c869ddd29bd850eae37ccd9b35d100f72b7aca62f8e
-SHA512: 46768496071d6b6bc93e6ce85c275aa38ac2e8aa0a075d227325f0e6261f9fde70333e7346fa0c43628e391537efe135c7d8775e0b271be76222737a0e8e48bb
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
 Package: pog.ataro.Rale
 Architecture: iphoneos-arm
 Version: 1.0.0
