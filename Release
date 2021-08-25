@@ -1,7 +1,7 @@
 Architectures: iphoneos-arm
 Codename: ios
 Components: main
-Date: Wed, 25 Aug 2021 21:04:07 +0000
+Date: Wed, 25 Aug 2021 21:07:00 +0000
 Description: my repo for things that I make
 Label: Ataro's repo
 Origin: Ataro's repo
@@ -12,22 +12,22 @@ MD5Sum:
  0ce9ab7c02c8deda2970786ef0de71f0              897 Packages.bz2
  d1528d82cd7f1a45d4de09eb1e9440ac              868 Packages.xz
  a68b73499e008d53f7f0a2a7a4d055a1              807 Packages.zst
- 2bab152ca13d3dd35a8f6df5aa14394e              209 Release
+ 8165c13310783be45941ff010f7fd65a              209 Release
 SHA1:
  473ed52db18787f63b537312c7396d0ca57c8e9f             1526 Packages
  82e316b7c4cdd8c3fd55fc6414b144f01e0f1f01              897 Packages.bz2
  ccafc3968eb546812f5fba93891968636723b721              868 Packages.xz
  ea8ca824c34119cd7521b7e36ac917b4d82d552b              807 Packages.zst
- bb658e4cdf90b595624da3d2bfddb73fcca0786f              209 Release
+ 2b85ea0dc23f43ccf14e87f77104a70c193a542b              209 Release
 SHA256:
  cdd9e92465d7912ea6661b4a9dcfe2d36d95c3112f19840448024efbc95c0f0b             1526 Packages
  ef1f165e2dea991fc6818447732cfa5d65886c81978bb4a489de5889a246e920              897 Packages.bz2
  7995f3e24e9fb56b356f8711f0b7d17118746d97418919b6b2c20ba79476fb02              868 Packages.xz
  e934cb563c3e1778a567857b0cf23c0ab698df8e3de36ae03e6228d754df9ee9              807 Packages.zst
- c91100a8b91ae91f0c7c17f1df567591f098c7eec33f5c1ca95278a4de52071f              209 Release
+ 00bc4b1364063c4e2f169e5af55123e15213aedf9ad1c34e985968dd5ba6e45d              209 Release
 SHA512:
  b774ba9de6dcae22ae5de903ecc421e140262b272b34ecd721f759529ddc7c07e91dfe6bb45e636bece02129fe862fceada63c793bbe163d979b3190a41cd0a6             1526 Packages
  4b24557b26c34eac3ff03444449a7c9695f28abc5f883ad35d7eee870f1ce79202029d65eff0a12466ff0c93f8a4c0f496ee03825b0c13ada92798ef96f606d0              897 Packages.bz2
  b2389f85a7c69a48e0584e3947839dddbcfbe59ee3001905c14838a226b97835172ec6efdf719bc8347f0ae18722f1db34bfd2c543f9aaa027c5159756116f18              868 Packages.xz
  3548de7cb804dee9a0666b4e68baefe25df0a901d7e17a82218db05225385cc3b70ef69a5766663dcb4b69525bc2f53961b7969d7de53ecb0ea9f02a19086f06              807 Packages.zst
- a3a1895c12784babbca69a9922219c9afe175eab876b6fe7633ec713d93e5dca0f50af13ce8b019477ac111af4ac284b7804b30895c6b5852f1c525e99ff0574              209 Release
+ 64be50beb494894da03f7e3a2eced12d03b22e5a5d03d45ab22c76d5c962b6602b3f5e2cbcb2da5cd84649baa116118038dce741a07e069115debdc16866fa0e              209 Release
