@@ -26,11 +26,11 @@ Installed-Size: 1
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader
 Conflicts: no.conflicts.here
 Filename: ./pool/pog.ataro.removesafari.deb
-Size: 1824
-MD5sum: 79d4c5c1d174eac3c65c3e6118d86d93
-SHA1: 8f2d69dfbc458a0de4de2559e786467174df10f7
-SHA256: c10e253789c83ee5d6526e17671f10009c53275e341207e811b36a952650d520
-SHA512: b734999339490cc0f6369a37d861abf785b6b4daa43eefa834ed3caa84877d1a844f41b09cc5523d3e18aa30f74851b803e3831d63ad4b183d1c29cbab633607
+Size: 1108
+MD5sum: 369348e839c8813917fa72483b1bffdc
+SHA1: 9d0999b9d8d7246280be064442a6d5edc3cd9d1a
+SHA256: e4f801f9af676291768038fdba001d351531211cd7ac732ced72e584f7cf527e
+SHA512: 343df5ac2c8e5daca95b3f828b719820954ea5433365acf3b69f4ab8594c49660964bb252c1abbe00bc35501ad8e423c48927cc342385fe256784482506627b3
 Description: Removes safari.app (don't worry it makes a backup first) to reinstall safari run "resafari.sh" in /var/mobile .
 Name: RemoveSafari
 Author: ataro <jroemer551@gmail.com>
