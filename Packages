@@ -17,3 +17,22 @@ Name: Rale
 Author: ataro (Jake Roemer) <jroemer551@gmail.com>
 Depiction: http://getsileo.app
 
+Package: pog.ataro.removesafari
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: ataro <jroemer551@gmail.com>
+Installed-Size: 1
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader
+Conflicts: no.conflicts.here
+Filename: ./pool/pog.ataro.removesafari.deb
+Size: 1824
+MD5sum: 79d4c5c1d174eac3c65c3e6118d86d93
+SHA1: 8f2d69dfbc458a0de4de2559e786467174df10f7
+SHA256: c10e253789c83ee5d6526e17671f10009c53275e341207e811b36a952650d520
+SHA512: b734999339490cc0f6369a37d861abf785b6b4daa43eefa834ed3caa84877d1a844f41b09cc5523d3e18aa30f74851b803e3831d63ad4b183d1c29cbab633607
+Description: Removes safari.app (don't worry it makes a backup first) to reinstall safari run "resafari.sh" in /var/mobile .
+Name: RemoveSafari
+Author: ataro <jroemer551@gmail.com>
+Depiction: http://Google.com
+
