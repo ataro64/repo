@@ -3,15 +3,15 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
 Maintainer: ataro <jroemer551@gmail.com>
-Installed-Size: 200
+Installed-Size: 5
 Depends: mobilesubstrate
 Filename: ./pool/pog.ataro.emergencyspring_1.0_iphoneos-arm.deb
-Size: 5000
-MD5sum: 20abf1cf2a3d3364b5dafdd7262d8809
-SHA1: ca5c7529bbb694161076c7023196efbcea5c16bf
-SHA256: 54645f36ca9f092981913e5ad7b7cf05c0a6e24bec835edf2c6d8d4b2a6cf56a
-SHA512: 5cabbbf428d7cce1cbdd48b7f73502521d01a24e55026735ea6d96d6f8b9daa822c20e82f16c7ebf91f700fa287d7fcc8e037f87561d1d1cf4cf00c2e55cb58d
-Description: Volume ↑↑↑↓↓↓↑↑↑ to respring.
+Size: 5040
+MD5sum: 8ba8fc1c098587d9f364f6d5a8d87af8
+SHA1: c03774c5bb1fff60c567e41490a298b9bdd570d8
+SHA256: eb09fb4aaa06be2b79ae23d6755cc466a53553da0a713ecc6942ff55f879713d
+SHA512: fceea363511e00e9d3ad4fa3cf3391a8d9219f5c88401998bc9cbcf6900f7e638ae6791848efe5b14922e75cfb8f50023ce410d16386d859369b35897f2e3cb8
+Description: Press volume ↑↑↑↓↓↓↑↑↑ to respring in case of a reaping loop or other times you need a respring!
 Name: EmergencySpring
 Author: ataro <jroemer551@gmail.com>
 
