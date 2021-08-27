@@ -1,3 +1,63 @@
+Package: com.ps.amber
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 592
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), gsc.camera-flash, firmware (>= 11.0) | com.a3tweaks.flipswitch, firmware (<< 11.0) | com.opa334.ccsupport
+Filename: ./pool/com.ps.amber_1.0.0_iphoneos-arm.deb
+Size: 39182
+MD5sum: f003f13ae11c67e7a0d17f2d8b2de5dd
+SHA1: 8539b904ba070647e568ad90e9efa09de710ca1a
+SHA256: dde09f3efb054f3ac0f246caf49a48d58026dd1c62e13acd502042e7e36c82f2
+SHA512: efc397c2010104a5a23287bff1327baaf5cdf2ddf962a698299b2e76d2186fb1ac689a6f51e998ab62a974f090b4f1d18338b7f122fc0dce65fc5c1d782c9c5b
+Description: Amber-ify your LED torch.
+Name: Amber
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/amber.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/amber.json
+
+Package: net.tateu.debkeeper12
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Tweaks
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Installed-Size: 324
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader
+Conflicts: net.tateu.debkeeper
+Filename: ./pool/net.tateu.debkeeper12_1.0.5_iphoneos-arm.deb
+Size: 16936
+MD5sum: 3edea404550e8872a43b1e9144de90d0
+SHA1: e9997bb0f4f06f49a28c6ec94806e67b40655d5e
+SHA256: 0f6708d2083e2ea7aa059613e15f9b4db33c8db8bcadb3749e3789593304d647
+SHA512: c9c2b1e004c1a79cd809b7f069d33ffddcb588b5930e2ba1e02a6a8e98bfcd4a10c0874495944c0faad0a238c08ac94ac5fc12a165a8647321b37328b0b63ea9
+Description: Disable deletion of deb files in Cydia, Sileo and Zebra.
+Name: DebKeeper12
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Depiction: http://www.tateu.net/repo/html/?p=debkeeper12
+
+Package: net.angelxwind.appsyncunified
+Architecture: iphoneos-arm
+Version: 100.0
+Section: Tweaks
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 732
+Provides: appsync
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.7.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Filename: ./pool/nodelete-net.angelxwind.appsyncunified.deb
+Size: 58314
+MD5sum: d9d27173cc6130c5d230851d80ffd618
+SHA1: 56d334823c0dd7ef192a489ea8ec332041ce108a
+SHA256: c560fa196cd3fb244edb72f2a3943c7ead59979c300f9ecdceefc713439a8454
+SHA512: ae101097c8ccc42aa9a974da5f348351e7227bbced885b9b760f50e7fd507cfd317efe68a71195a6a8dfabf595394cf39bf1235a3253862c97dd372900ef7f9c
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+
 Package: pog.ataro.Rale
 Architecture: iphoneos-arm
 Version: 1.0.0
