@@ -19,7 +19,7 @@ apt-ftparchive \
         -o APT::FTPArchive::Release::Architectures="iphoneos-arm" \
         -o APT::FTPArchive::Release::Components="main" \
         -o APT::FTPArchive::Release::Description="my repo for "things" that I make" \
-     ;   release . > Release
+        release . > Release
 echo "we done here!!!"
 git add .
 git commit -m "add package"

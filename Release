@@ -1,0 +1,33 @@
+Architectures: iphoneos-arm
+Codename: ios
+Components: main
+Date: Thu, 04 Nov 2021 03:13:34 +0000
+Description: my repo for things that I make
+Label: Ataro's repo
+Origin: Ataro's repo
+Suite: stable
+Version: 2.0
+MD5Sum:
+ 6daa535a48b68c0c8e6f1285e67dce88             1555 Packages
+ ac4aff91ab78cae7f4d7ec33bbeb0d99              945 Packages.bz2
+ d63dfab1b96e3cd8f498cced8124bd62              908 Packages.xz
+ 633bf79fd104b72b9b197567c674c08b              848 Packages.zst
+ 57f85e3661a7f971336b392a28886775              209 Release
+SHA1:
+ e75f54f4cc4fe4c2fd3b76238cf10a61651840dd             1555 Packages
+ 99aa7f3e08e9f196f98526a5f25ba34719c45652              945 Packages.bz2
+ 841502fa4eeff60c2c597cad8bbe70fef7f0aae1              908 Packages.xz
+ 0ae55233ea1ff500c63bdfe217c139e87e426bbd              848 Packages.zst
+ 19531ece59ccd584a2fa57fed43975ee787643f2              209 Release
+SHA256:
+ 3d79857bf89c529400d8bbaf1a5cf9bb068b683d2f87c17059ee89dd28fecac8             1555 Packages
+ c9c7f878e3c4a8b7c5ec04b41a02a68b8e50204c525f2ca2344bb2646430029d              945 Packages.bz2
+ 65083781a49126734c44f463f374c9bef8cd57387ebefc50c122fd2c811a3c42              908 Packages.xz
+ 1c846ac4de39ea5ca23c6ce52610b60696fa486410472ef7c2523470c38b8fd6              848 Packages.zst
+ 352525f59900ef1e013c3331486aa0ec5822666c0f2756ad29c15cb42293abcc              209 Release
+SHA512:
+ cf1d909d1d873cc0bde8b5d1fa3b5293df600a5e0f0275945eccee040928364c3e45de12554343c7f4b2984821e3b836134ddd24878061c702c8fd359a1f952b             1555 Packages
+ 30a68dc9f49b37a94b07dd9d565c573fe010843002b0250d6bc5ca04ca8b7fa3d9923228d70d300a6fcfcf9b60b925f7bd59d792252103761507e53e38435c08              945 Packages.bz2
+ 58b4ab08b420d39fd2ee6bcefe006959935ab73d63572a62bdc5331e2e5856fe96aefdde1efec4789f88ce4650fee7e1c5ea991c461b74827dea0664f5148511              908 Packages.xz
+ 904d79a869688dd0246bc96a27bd138840be11e835364c71b88c53ad1a0b267b7aa650ba5bf44ceeada77fc802e284a6bc9c2d73dfc0da8193312fc2360707e5              848 Packages.zst
+ 0e9744641a42f1653b27a46ab90d69e354b5a95754f0c6936adfaa0df05219c1115951e5c30b6eb1692e6cb2a16c5741edd71c6525cf171af1101f5817dc93e7              209 Release
