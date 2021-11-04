@@ -20,7 +20,9 @@ apt-ftparchive \
         -o APT::FTPArchive::Release::Components="main" \
         -o APT::FTPArchive::Release::Description="my repo for "things" that I make" \
      ;   release . > Release
+date > date
+time > time
 echo "we done here!!!"
-#git add .
-#git commit -m "add package"
-#git push
+git add .
+git commit -m "add package"
+git push

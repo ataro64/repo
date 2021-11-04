@@ -15,25 +15,6 @@ Description: Press volume ↑↑↑↓↓↓↑↑↑ to respring in case of a r
 Name: EmergencySpring
 Author: ataro <jroemer551@gmail.com>
 
-Package: pog.ataro.Rale
-Architecture: iphoneos-arm
-Version: 1.0.0
-Section: Tweaks
-Maintainer: ataro (Jake Roemer) <jroemer551@gmail.com>
-Installed-Size: 1
-Depends: firmware (>=11.0), mobilesubstrate, preferenceloader
-Conflicts: com.apple.fun
-Filename: ./pool/pog.ataro.rale.deb
-Size: 928
-MD5sum: 68955567759538d2686bb4f1ac31ba65
-SHA1: 3a044cdd962ff975ec81ff5c6fa8030216c25a5b
-SHA256: 7843f6d5222aa611a096ce2f4f9af569f38848175c900dcd790d1c6c51547aa0
-SHA512: 0094169d65d72e57ab5861902470149072a4516c8c933b50cb422dd95e0c2e64f6f35366ea29c057b2d48959d2d231d5f67d75310cae9e5b305bf387f0e49ef6
-Description: Not finished.
-Name: Rale
-Author: ataro (Jake Roemer) <jroemer551@gmail.com>
-Depiction: http://getsileo.app
-
 Package: pog.ataro.removesafari
 Architecture: iphoneos-arm
 Version: 1.0
